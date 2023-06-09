@@ -4,5 +4,5 @@
 
 ## Descripción
 
-## Funcionamiento
+## Funcionamiento:
 ![ ](img/avatars.jpg)
